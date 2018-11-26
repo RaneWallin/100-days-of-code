@@ -7,7 +7,7 @@
 **Thoughts:** I've been using an Ubuntu laptop for development, but I have a class that requires I use Windows and switching back and forth has gotten tedious. 
 
 
-### Day 0: 11/25/2018
+### Day 1: 11/25/2018
 
 **Today's Progress**: Brushing up on React using the Modern React with Redux course on Udemy
 
